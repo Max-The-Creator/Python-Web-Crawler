@@ -1,4 +1,4 @@
-# INF-141-Assignment-2
+# Python Web Crawler
 
 This project entails building a webcrawler that extracts URLs from a static corpus located in a local directory
 
